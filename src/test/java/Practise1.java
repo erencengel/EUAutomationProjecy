@@ -8,6 +8,7 @@ public class Practise1 {
         //Succesfully pushed project to GitHub
         //first intellij automatically created remote repo
         //created connection between local repo and remote repo
+        //work1.1
 
     }
 }
