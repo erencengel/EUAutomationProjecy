@@ -5,5 +5,9 @@ public class Practise1 {
 
         System.out.println("WORK 1");
 
+        //Succesfully pushed project to GitHub
+        //first intellij automatically created remote repo
+        //created connection between local repo and remote repo
+
     }
 }
